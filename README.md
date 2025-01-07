@@ -79,8 +79,9 @@ This analysis provides insights into coffee sales data, including transaction pa
    - **Total Footfall:** 1,49,116
    - **Average Bill per Person:** ₹4.69
    - **Average Orders per Person:** 1.44
-   - 
-This analysis helps identify peak sales periods, customer preferences, and the most profitable locations and products. It can be used for strategic planning, inventory management, and marketing efforts.
+
+####This analysis helps identify peak sales periods, customer preferences, and the most profitable locations and products. It can be used for strategic planning, inventory management, and marketing efforts.
+
 ---
 
 ## Dashboard Features
