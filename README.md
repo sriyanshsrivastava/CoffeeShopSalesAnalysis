@@ -26,6 +26,9 @@ This project involved creating an interactive sales dashboard for a coffee shop 
 ---
 
 ## Dashboard Features
+
+![Dashboard_image](Dashboard.png)
+
 ### Key Metrics:
 - **Total Sales**: $6,98,812.33
 - **Total Footfall**: 149116
