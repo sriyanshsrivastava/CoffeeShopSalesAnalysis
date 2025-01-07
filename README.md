@@ -143,13 +143,18 @@ This analysis provides insights into coffee sales data, including transaction pa
 
 ## Repository Structure
 ```
-|-- Coffee_Shop_Sales_Analysis
+|-- CoffeeShopSalesAnalysis
     |-- Data
         |-- Coffee Shop Sales.xlsx
     |-- Dashboard
         |-- Coffee Sales Data Analysis and Dashboard.xlsx
     |-- Documentation
-        |-- README.md
+        |-- Coffee Shop Sales Analysis Documentation.pdf
+        |-- Coffee Shop Sales Analysis Project.pdf
+        |-- Questions Solved in the Project with Answers.pdf
+    |-- Analysis.png
+    |-- Dashboard.png
+    |-- README.md
 ```
 
 ---
