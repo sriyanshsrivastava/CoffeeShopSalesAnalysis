@@ -27,10 +27,10 @@ This project involved creating an interactive sales dashboard for a coffee shop 
 
 ## Dashboard Features
 ### Key Metrics:
-- **Total Sales**: $12,742.52
-- **Total Footfall**: 2,725
-- **Average Bill/Person**: ₹4.68
-- **Average Orders/Person**: 1.45
+- **Total Sales**: $6,98,812.33
+- **Total Footfall**: 149116
+- **Average Bill/Person**: ₹4.69
+- **Average Orders/Person**: 1.44
 
 ### Visualizations:
 1. **Hourly Sales Trend**:
