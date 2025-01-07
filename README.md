@@ -83,9 +83,9 @@ This project involved creating an interactive sales dashboard for a coffee shop 
 ```
 |-- Coffee_Shop_Sales_Analysis
     |-- Data
-        |-- transactions.csv
+        |-- Coffee Shop Sales.xlsx
     |-- Dashboard
-        |-- Coffee_Shop_Sales_Dashboard.xlsx
+        |-- Coffee Sales Data Analysis and Dashboard.xlsx
     |-- Documentation
         |-- README.md
 ```
