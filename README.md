@@ -25,6 +25,65 @@ This project involved creating an interactive sales dashboard for a coffee shop 
 
 ---
 
+## Coffee Sales Analysis, Pivot, and Calculations
+
+This analysis provides insights into coffee sales data, including transaction patterns, total sales, footfall, top-selling products, and more. The findings are based on various pivot tables and calculations. Below is a summary of the analysis.
+
+![Coffee Sales Analysis](./Analysis.png)
+
+## Key Insights and Highlights
+
+### 1. **Transaction Quantity by Hour**
+   - **Peak Hours:** The highest transactions occur at 8 AM, 9 AM, and 10 AM.
+   - **Least Activity:** Minimal transactions occur after 8 PM.
+
+### 2. **Total Sales by Weekdays**
+   - **Highest Sales:** Thursday and Friday generate the most sales, with over $1,00,000 each.
+   - **Lowest Sales:** Sundays have the least sales at $98,330.31.
+
+### 3. **Footfall by Weekdays**
+   - **Highest Footfall:** Monday and Friday observe the highest customer count.
+   - **Lowest Footfall:** Saturday sees the least number of transactions.
+
+### 4. **Top 5 Products by Total Sales**
+   - **Top Product:** Barista Espresso leads with $91,406.20.
+   - **Other Products:** Brewed Black Tea, Brewed Chai Tea, Gourmet Brewed Coffee, and Hot Chocolate follow.
+
+### 5. **Top 5 Product Descriptions**
+   - Products like **Brazilian**, **Ethiopia**, and **Jamaican Coffee River** generate significant revenue, each around $38,000-$40,000.
+
+### 6. **Total Sales by Month**
+   - **Highest Revenue:** June sees the highest sales at $1,66,485.88.
+   - **Lowest Revenue:** February has the lowest sales at $76,145.19.
+
+### 7. **Footfall by Month**
+   - **Highest Footfall:** May and June record the maximum customer transactions.
+   - **Lowest Footfall:** January and February observe the least footfall.
+
+### 8. **Total Sales Per Store Location**
+   - **Top Location:** Astoria contributes the most to sales with $2,32,243.91.
+   - Other locations like **Hell's Kitchen** and **Lower Manhattan** also have substantial revenue.
+
+### 9. **Top-Selling Product Categories**
+   - **Coffee** dominates with $2,69,952.45, followed by **Tea** ($1,96,405.95) and **Bakery** ($82,315.64).
+
+### 10. **Total Footfall Per Store Location**
+   - **Astoria** and **Hell's Kitchen** have almost equal footfalls, followed by **Lower Manhattan**.
+
+### 11. **Orders Count by Size**
+   - **Most Ordered Size:** Large orders lead with 44,885 transactions.
+   - **Least Ordered Size:** Small orders account for only 13,924 transactions.
+
+### 12. **Key Metrics**
+   - **Total Sales:** $6,98,812.33
+   - **Total Footfall:** 1,49,116
+   - **Average Bill per Person:** ₹4.69
+   - **Average Orders per Person:** 1.44
+
+---
+
+This analysis helps identify peak sales periods, customer preferences, and the most profitable locations and products. It can be used for strategic planning, inventory management, and marketing efforts.
+
 ## Dashboard Features
 
 ![Dashboard_image](Dashboard.png)
